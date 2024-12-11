@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrNeBwa
-- 👀 I’m interested in python🐍
-- 🌱 I’m currently learning C++🎓
-- 💞️ I’m looking to collaborate on dont know
-- 📫 How to reach me "phantommryt1@yandex.by"
+- 👀 I’m interested in cyber security🔐
+- 🌱 I’m currently learning C🎓
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me "phantommryt@gmail.com"
 
 <!---
 MrNeBwa/MrNeBwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
