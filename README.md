@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrNeBwa
 - 👀 I’m interested in cyber security🔐
-- 🌱 I’m currently learning C🎓
+- 🌱 I’m currently learning cpp🎓
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me "phantommryt@gmail.com"
 <!---
