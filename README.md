@@ -13,6 +13,11 @@
 - **Инфраструктура и ОС:** Linux, Bash, systemd, Git
 - **Технологии и библиотеки:** OpenGL (GLAD, GLFW), NumPy
 - **Инженерные навыки:** ООП, классические алгоритмы и структуры данных, Unit-тестирование
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,cs,arch,linux,bash,git" alt="My Tech Stack" />
+  </a>
+</p>
 
 ### 🚀 Избранные проекты
 
