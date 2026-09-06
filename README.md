@@ -3,7 +3,7 @@
 Я начинающий IT-специалист и разработчик, увлеченный созданием эффективного кода, алгоритмами и работой с низкоуровневыми системами. У меня сильный математический бэкграунд, и сейчас моя главная цель — **получить практический опыт в реальной продуктовой команде**, где я смогу приносить пользу, перенимать опыт коллег и развивать свои инженерные навыки.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваше_гитхаб_имя&show_icons=true&theme=github-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrNeBwa&show_icons=true&theme=github-dark" alt="GitHub Stats" />
 </p>
 
 ### 💡 Обо мне
@@ -37,22 +37,22 @@
 - **Web-site** https://nebwa.mem
 
 <p align="center">
-  <!-- Телеграм -->
-  <a href="https://t.me/ваш_тг_ник">
+
+  <a href="https://t.me/INeBwa">
     <img src="https://img.shields.io/badge/Telegram-%40ваш_тг_ник-blue?logo=telegram&style=for-the-badge&color=26A5E4" alt="Telegram" />
   </a>
   <img width="20" />
-  <!-- ОС: Linux -->
+
   <a href="https://img.shields.io/badge/OS-Linux-blue?logo=linux&style=for-the-badge&color=FCC624">
     <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux&style=for-the-badge&color=FCC624" alt="Linux OS" />
   </a>
   <img width="20" />
-  <!-- Дистрибутив: Arch Linux -->
+
   <a href="https://img.shields.io/badge/Distro-Arch%20Linux-blue?logo=arch-linux&style=for-the-badge&color=1793D1">
     <img src="https://img.shields.io/badge/Distro-Arch%20Linux-blue?logo=arch-linux&style=for-the-badge&color=1793D1" alt="Arch Linux" />
   </a>
    <img width="20" />
-  <!-- Редактор: Neovim -->
+
   <a href="https://img.shields.io/badge/Editor-Neovim-blue?logo=neovim&style=for-the-badge&color=57A143">
     <img src="https://img.shields.io/badge/Editor-Neovim-blue?logo=neovim&style=for-the-badge&color=57A143" alt="Neovim" />
   </a>
