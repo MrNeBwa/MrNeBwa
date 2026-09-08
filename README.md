@@ -35,7 +35,7 @@
 <p align="center">
 
   <a href="https://t.me/INeBwa">
-    <img src="https://img.shields.io/badge/Telegram-%40ваш_тг_ник-blue?logo=telegram&style=for-the-badge&color=26A5E4" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-%40INeBwa-blue?logo=telegram&style=for-the-badge&color=26A5E4" alt="Telegram" />
   </a>
   <img width="20" />
 
