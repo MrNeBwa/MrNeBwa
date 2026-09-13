@@ -68,7 +68,7 @@ A custom rendering engine built from scratch with focus on performance and devel
 ### 🎓 Education
 
 **Belarusian State University of Informatics and Radioelectronics (BSUIR)**  
-Bachelor's Degree in Computer Software Engineering | Aug 2024 – Expected 2028
+Bachelor's Degree in Computer Software Engineering | Expected 2029
 
 ---
 
