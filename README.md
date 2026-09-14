@@ -1,6 +1,6 @@
 # Yuriy Tsimashenka (NeBwa)
 
-**C++ Backend Developer** | Systems Programming | High-Performance Computing
+Senior **Backend Engineer** | C++ Python Java | Distributed Systems & Low-Latency Architecture | HighLoad • AWS • AI Integration
 
 I'm a Computer Software Engineering student at BSUIR and a practicing **Middle C++ Backend Developer** specializing in high-performance microservices, network I/O, and low-level system optimization. My work spans from designing event-driven architectures that solve the C10k problem to implementing lock-free data structures for zero-copy packet processing.
 
